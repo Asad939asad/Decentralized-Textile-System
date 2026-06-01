@@ -183,4 +183,27 @@ npx hardhat test nodejs
 2. Stop the Hardhat node (`Ctrl+C` in Terminal 1)
 
 > Note: Stopping the node wipes all on-chain state. You must re-deploy next time.
-# Enterprise-Network-Architecture-Simulation
+## 📸 Screenshots
+
+Here are the screenshots of the TextileNexus application:
+
+### 1. Dashboard & Operations
+![Dashboard & Operations](frontend/ScreenShots/Screenshot%202026-04-30%20at%2011.45.08%E2%80%AFPM.png)
+
+### 2. Supply Chain Tracking
+![Supply Chain Tracking](frontend/ScreenShots/Screenshot%202026-04-30%20at%2011.45.33%E2%80%AFPM.png)
+
+### 3. Product Registry
+![Product Registry](frontend/ScreenShots/Screenshot%202026-04-30%20at%2011.45.39%E2%80%AFPM.png)
+
+### 4. Inspector Interface
+![Inspector Interface](frontend/ScreenShots/Screenshot%202026-04-30%20at%2011.45.48%E2%80%AFPM.png)
+
+### 5. Multi-sig Administration & Governance
+![Multi-sig Administration & Governance](frontend/ScreenShots/Screenshot%202026-04-30%20at%2011.45.53%E2%80%AFPM.png)
+
+### 6. Stakeholder Roles & Access
+![Stakeholder Roles & Access](frontend/ScreenShots/Screenshot%202026-04-30%20at%2011.46.00%E2%80%AFPM.png)
+
+### 7. Contract States & Metrics
+![Contract States & Metrics](frontend/ScreenShots/Screenshot%202026-04-30%20at%2011.46.06%E2%80%AFPM.png)
